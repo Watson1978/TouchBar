@@ -2,6 +2,8 @@
 
 This is a sample of RubyMotion for Touch Bar.
 
+![screenshot](https://raw.githubusercontent.com/Watson1978/TouchBar/master/screenshot.png)
+
 ## Requirements
 
 Xcode 8.1 or later; macOS 10.12.1 SDK or later
